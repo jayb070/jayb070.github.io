@@ -2,6 +2,6 @@
 
 Welcome to my website!
 
-![Landing Page](public/portfolio_screen.png)
+![Landing Page](public/landing_page.png)
 
 For more information, visit [Jayesh's Portfolio](https://jayb070.github.io/).
